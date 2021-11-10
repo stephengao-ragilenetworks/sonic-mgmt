@@ -1,4 +1,4 @@
-# Console Switch Test Plan
+   # Console Switch Test Plan
 
 - [Console Switch Test Plan](#console-switch-test-plan)
   * [1 Background](#1-background)
